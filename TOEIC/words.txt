@@ -1,0 +1,192 @@
+abruptly (ADJ),갑작스럽게, 급격히
+access (Noun),이용, 접근, 접근 권한
+access (Verb),이용하다, 접근하다
+accommodate (Verb),수용하다, 공간을 제공하다, 적응시키다
+acquirement (Noun),취득, 획득
+acquired (ADJ),획득한, 후천적인, 습득한
+account (Noun),저서, 설명, 이야기, 계좌, 거래, 계정
+accord (Verb),주다, 수여하다, 일치하다
+adherence (Noun),충실, 고수, 준수
+affirm (Verb),단언하다, 확언하다
+affect (Verb),영향을 미치다, 작용하다, 가장하다
+affection (Noun),감정, 감동, 애정
+appreciative (ADJ),감사하는, 감탄하는
+archeological (ADJ),고고학의
+based in (~에),기반을 둔, 기초로 한
+be designed to (~하도록),고안되다, 제작되다
+be renowned for (~으로),명성이 높다
+be subject to (~의),대상이다, ~에 영향을 받기 쉽다
+blackout (Noun),정전, 일시적 의식 상실
+broadcast (Verb),방송하다, 퍼뜨리다, 전파하다
+budget (Noun),예산, 비용
+causative (ADJ),야기시키는, 원인이 되는
+choice (Noun),선택, 선택된 것
+clause (Noun),조항, 절
+clinic (Noun),진료소
+commercial (Noun),광고 방송
+complaint (Noun),불평, 불만
+compensation (Noun),보상, 배상, 보수
+conduct (Verb),실시하다, 지휘하다, 행동하다
+conduction (Noun),전도, 전달
+confirm (Verb),확인하다, 확정짓다
+contemporary (ADJ),현대적인, 동시대의
+contraction (Noun),수축, 축약형
+correction (Noun),수정, 정정
+courier (Noun),택배 회사, 배달원
+critic (Noun),평론가, 비평가, 비난자
+customarily (ADV),관례적으로, 습관적으로
+deliver (Verb),전달하다, 배달하다, 실행하다
+difficulties (Noun),곤란, 말썽, 난관
+discover (Verb),밝히다, 발견하다, 깨닫다
+documentation (Noun),문서화, 서류, 증거 자료
+dominate (Verb),우위를 차지하다, 지배하다
+elaborate (ADJ),정교한, 공을 들인
+elevate (Verb),높이다, 향상시키다
+emerge (Verb),부상하다, 드러나다, 나타나다
+enterprise (Noun),기업, 회사, 사업
+equipment (Noun),장비, 용품
+especially (ADV),특히
+evaluate (Verb),검토하다, 평가하다, 가치를 따지다, 측정하다
+even (ADJ),짝수, 평평한
+excess (ADJ),과잉의, 초과한
+exclude (Verb),제외하다, 배제하다
+executives (Noun),경영자, 실무자
+express regret for (~에 대해),사과하다, 유감을 표하다
+externally (ADV),외부적으로, 외형적으로
+fledgling (ADJ),신생의, 미숙한
+form (Verb),구성하다, 형성하다, 형태를 갖추다
+formally (ADV),공식적으로, 형식적으로
+garment (Noun),의류, 옷
+generate (Verb),자아내다, 발생시키다, 만들어내다, 생성하다
+gift certificate (Noun),상품권
+glazed (ADJ),광택 있는, 광택이 나는
+give away (Verb),기부하다, 나눠주다, 폭로하다
+go ahead (Verb),진행시키다, 계속하다, 나아가다다
+hectic (ADJ),정신없이 바쁜, 매우 흥분한
+highway (Noun),고속도로
+historic site (Noun),유적지, 역사적 장소
+house call (Noun),가정 방문
+immediacy (Noun),즉시성, 긴급성
+immediately (ADV),즉시
+improved (ADJ),개선된, 향상된
+incident (Noun),사고, 사건, 분쟁
+incompatibility (Noun),호환되지 않음, 불일치, 비호환성
+inherent (ADJ),내재하는, 타고난
+innovative (ADJ),혁신적인, 획기적인
+inspect (Verb),검사하다, 조사하다, 점검하다
+intermittently (ADV),간헐적으로, 때때로
+interpret (Verb),통역하다, 해석하다
+interval (Noun),간격, 사이
+in bulk (ADV),대량으로, 다량으로
+invalid (ADJ),근거 없는, 무효한, 허약한
+keen (ADJ),예리한, 열정적인, 열망하는
+keep pace with (~에),뒤지지 않다, 보조를 맞추다
+landfill (Noun),쓰레기 매립지
+legitimate (ADJ),타당한, 정당한
+locate (Verb),위치시키다, 찾아내다
+make it a point to do (~을),반드시 하다, 반드시 ~하다
+mandatory (ADJ),필수의, 의무의, 의무적인
+manufacturer (Noun),제조 회사, 생산자, 제조 공장
+marginal (ADJ),미미한, 한계의, 중요하지 않은
+metabolism (Noun),신진대사
+membership (Noun),회원
+obey (Verb),준수하다, 지키다, 따르다, 복종하다, 순종하다
+objective (Noun),목적, 목표, 객관적인 것
+objectionable (ADJ),불쾌한, 무례한, 비난받을 만한
+obtainment (Noun),입수, 획득
+observe (Verb),발견하다, 목격하다, 관찰하다
+oversight (Noun),착오, 실수
+pace (Noun),속도
+particularly (ADV),특히, 특별히
+post (Verb),게시하다, 배치하다
+postpone (Verb),연기하다, 뒤로 미루다, 지연시키다
+precaution (Noun),예방 조치
+presentation (Noun),발표
+production plant (Noun),생산 공장
+proposal (Noun),제안, 제의
+proprietor (Noun),소유주
+proximity (Noun),근접, 인접
+quite (ADV),상당히, 꽤, 완전히
+rate (Verb),평가하다, 등급을 매기다
+recipient (Noun),수령인, 받는 사람
+redeem (Verb),교환하다, 상환하다
+redemption (Noun),구함, 구원, 현금화
+regard (~을 ~으로),여기다, 취급하다
+release (Verb),발표하다, 풀어주다, 양도하다, 놓아주다
+remarkable (ADJ),놀라운, 주목할 만한
+renovate (Verb),수리하다, 개조하다, 새롭게 하다
+relic (Noun),유물, 유적, 잔재, 흔적
+research (Noun),연구
+reservation (Noun),예약, 의구심
+response (Noun),대응, 반응
+restore (Verb),복구하다, 회복시키다
+revenue (Noun),수익, 세입
+sanitation (Noun),위생 관리, 공중위생
+salaried (ADJ),봉급을 받는, 정규직의, 임금을 받는
+sequel (Noun),속편
+shortcoming (Noun),불충분한 점, 결점
+shutdown (Noun),폐업, 휴업
+sincere (ADJ),진심의, 진실된
+soar (Verb),폭등하다, 날아오르다, 치솟다
+spacious (ADJ),넓은, 널찍한
+spare (ADJ),예비의, 여분의
+spot (Noun),장소, 점, 얼룩, 발견하다
+standout (Noun),뛰어난 사람
+stamina (Noun),체력, 인내력
+statistical (ADJ),통계의
+struggling (ADJ),분투하는, 기를 쓰는
+submit (Verb),제출하다, 굴복하다
+summons (Noun),소환, 호출
+supervision (Noun),감독, 관리
+surcharge (Noun),추가 요금, 추가 비용
+sensible (ADJ),현명한, 합리적인
+suggestive (ADJ),연상시키는, 을 연상시키는, 암시적인, 도발적인
+take steps (Verb),조치를 취하다
+tenant (Noun),세입자, 주민
+therapeutic (ADJ),치료상의, 치료 효과가 있는
+undetermined (ADJ),미확인의, 결정되지 않은, 미해결의
+undisclosed (ADJ),나타나지 않은, 비공개의
+urgency (Noun),긴급성, 긴급함, 절박함
+wage (Noun),급여, 임금, 보수
+demographic (ADJ),인구의, 인구학의
+massive (ADJ),대규모의, 거대한
+intense (ADJ),치열한
+concur (Verb),동의하다
+lessen (Verb),줄이다
+satisfy (Verb),만족시키다
+be based on (),에 바탕을 두다
+collapse (Verb),붕괴하다, 실패, 무너지다
+incur (Verb),초래하다
+essential (ADJ),필수의
+assembly (Noun),회의, 집회
+venue (Noun),장소
+organic (ADJ),유기농의
+fertilizer (Noun),비료
+readily (ADV),쉽게
+dissolve (Verb),융해하다, 녹다
+soil (Noun),토양
+absorb (Verb),흡수하다
+nutrient (Noun),영양분
+crop (Noun),농작물
+retailer (Noun),소매상, 소매업자
+overhaul (Verb),점검하다
+achieve (Verb),이루다, 성취하다
+favorable (ADJ),좋은, 호의적인
+solid (ADJ),내용이 충실한, 견고한
+environment (Noun),환경
+subsidies (Noun),보조금
+density (Noun),밀도
+convince (Verb),납득시키다, 설득하다
+council (Noun),의회
+investment (Noun),투자
+headquarters (Noun),본사, 본부
+forfeit (Verb),몰수당하다, 벌금
+set aside (Verb),확보하다, 챙겨 놓다
+insist (Verb),강조하다, 주장하다
+a series of (),일련의
+vacancy (Noun),공석
+devote (Verb),헌신하다, 바치다
+indeed (ADV),정말로, 확실히
+intuition (Noun),직관, 직감
+inspiration (Noun),영감
+downturn (Noun),침체
