@@ -1,0 +1,34 @@
+{
+    "npcs": [
+      {
+        "x": 24,
+        "y": 18,
+        "sprite": "assets/npc1.png",
+        "name": "Ive",
+        "map_name": "village"
+      },
+      {
+        "x": 20,
+        "y": 12,
+        "sprite": "assets/npc2.png",
+        "name": "Leah",
+        "map_name": "village",
+        "dialogue": [
+          {
+            "text": "Hello, world",
+            "responses": [
+              {
+                "text": "Hi",
+                "next": 1
+              }
+            ]
+          },
+          {
+            "text": "Nice to meet you, {player.name}.",
+            "responses": []
+          }
+        ]
+      }
+    ]
+  }
+  

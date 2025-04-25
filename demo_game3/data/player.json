@@ -1,0 +1,22 @@
+{
+    "name": "Player",
+    "sprite": "assets/ditto.png",
+    "x": 16.19999999999999,
+    "y": 13.19999999999995,
+    "hp": 100,
+    "level": 1,
+    "exp": 0,
+    "money": 100,
+    "inventory": [
+        {
+            "id": 1,
+            "name": "carrot seed",
+            "quantity": 3
+        },
+        {
+            "id": 2,
+            "name": "carrot",
+            "quantity": 1
+        }
+    ]
+}

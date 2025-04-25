@@ -1,0 +1,22 @@
+{
+    "tutorial": {
+        "enabled": true,
+        "steps": [
+            {
+                "step": 1,
+                "instruction": "WASD"
+            },
+            {
+                "step": 2,
+                "instruction": "E"
+            },
+            {
+                "step": 3,
+                "instruction": "I "
+            }
+        ]
+    },
+    "on_field": {
+        "enabled": true
+    }
+}
