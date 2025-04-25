@@ -15,7 +15,7 @@
 #     !pause - 음악 일시 정지
 #     !resume - 음악 재개
 #     !skip - 다음 곡으로 스킵
-#     !queue_list - 대기여 확인
+#     !queue_list - 대기열 확인
 #     !stop - 음악 중지 및 방식 통을 퇴장
 #     !loop - 루프 모드 토그런
 #     !status - 상태 메시지 출력
@@ -83,7 +83,7 @@ async def play(ctx, *, search: str):
         title = info['title']
 
     queue.append((url, title))
-    await ctx.send(f"🎵 **{title}** 을(를) 대기여에 추가했습니다.")
+    await ctx.send(f"🎵 **{title}** 을(를) 대기열에 추가했습니다.")
 
     if not vc:
         vc = await channel.connect()
